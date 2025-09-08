@@ -1,0 +1,5 @@
+[book]
+authors = ["Akash Lohar"]
+language = "en"
+src = "src"
+title = "Pinokyo API"
